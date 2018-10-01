@@ -1,2 +1,0 @@
-[alias]
-    ca = !sh -c 'git add -A && git commit -m \"$1\"' -
