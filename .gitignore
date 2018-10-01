@@ -7,3 +7,6 @@ jspm_packages/
 
 # Project
 package-lock.json
+
+# git directory
+.git/
