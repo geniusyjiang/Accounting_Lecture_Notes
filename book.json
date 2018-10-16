@@ -1,3 +1,9 @@
 {
-    "plugins": ["katex@git+https://github.com/gaoxiaosong/plugin-katex.git"]
+    "plugins": ["atoc"],
+    "pluginsConfig": {
+        "atoc": {
+            "addClass": true,
+            "className": "atoc"
+        }
+    }
 }
