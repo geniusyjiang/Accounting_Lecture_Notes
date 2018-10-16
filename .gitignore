@@ -1,0 +1,12 @@
+# Preview directory
+_book/
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Project
+package-lock.json
+
+# git directory
+.git/
